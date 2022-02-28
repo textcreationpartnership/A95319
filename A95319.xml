@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true state of the transactions of Colonel George Monk with Owen-Roe-mac-Art-O-Neal; as it was reported to the Parliament by the Councel of State. Together with the votes &amp; resolutions of the Parliament thereupon. Ordered, that it be referred to the Councel of State, to give direction for printing the report from the Councel of State, and so much of the letters and proceedings as concern this business, and the votes of the House thereupon. Hen: Scobell, cleric. Parliamenti.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95319</idno>
+            <idno type="STC">Wing T3119</idno>
+            <idno type="STC">Thomason E569_11</idno>
+            <idno type="STC">ESTC R203840</idno>
+            <idno type="EEBO-CITATION">99863644</idno>
+            <idno type="PROQUEST">99863644</idno>
+            <idno type="VID">115854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115854)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E569[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true state of the transactions of Colonel George Monk with Owen-Roe-mac-Art-O-Neal; as it was reported to the Parliament by the Councel of State. Together with the votes &amp; resolutions of the Parliament thereupon. Ordered, that it be referred to the Councel of State, to give direction for printing the report from the Councel of State, and so much of the letters and proceedings as concern this business, and the votes of the House thereupon. Hen: Scobell, cleric. Parliamenti.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+                  <author>O'Neill, Owen Roe, 1590?-1649.</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 15. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes documents signed by Monck and O'Neill.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>O'Neill, Owen Roe, 1590?-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115854:1" rendition="simple:additions"/>
+            <p>The true ſtate of the TRANSACTIONS OF Colonel George Monk WITH <hi>Owen-Roe-mac-Art-O-Neal;</hi> As it was Reported to the Parliament BY THE Councel of State. Together with the VOTES &amp; RESOLUTIONS OF The PARLIAMENT thereupon.</p>
+            <p>
+               <hi>ORdered, That it be referred to the Councel of State, to give Di<g ref="char:EOLhyphen"/>rection for printing the Report from the Councel of State, and ſo much of the Letters and Proceedings as concern this buſineſs, and the Votes of the Houſe thereupon.</hi>
+            </p>
+            <p>Hen: Scobell, Cleric. Parliamenti.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England, Auguſt</hi> 15. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115854:2"/>
+            <pb n="3" facs="tcp:115854:2"/>
+            <head>Die Veneris, 10 Auguſti, 1649.</head>
+            <p>
+               <hi>Mr. Scot</hi> Reports from the Councel of State, a Letter and Paper concerning a Ceſſation made by Colonel <hi>Monk</hi> with General <hi>Owen Roe mac Art O Neal,</hi> ſent to the Lord Lieutenant of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> by Colonel <hi>Monk,</hi> and were by the Lord Lieutenant brought and delivered to the Councel, and by them taken into conſideration, and that the whole Buſineſs was then diſapproved by the Councel; and the Councel hath de<g ref="char:EOLhyphen"/>clared unto Colonel <hi>Monk,</hi> That they neither did nor do approve of what he hath done therein; and Ordered, That both the foreſaid Letter and Papers, and alſo the Reaſons now exhibited to the Councel by Colonel <hi>Monk,</hi> for his making the Ceſſation, ſhould be Reported to the Houſe; which were all this day read.</p>
+            <p>
+               <hi>The Houſe being informed, That Colonel</hi> Monk <hi>was at the door, he was called in; and being come to the Bar,</hi>
+            </p>
+            <p>Mr. Speaker by Commands of the Houſe declared to him, That the Houſe had received a Report from the Councel of State, touching an Agreement for a Ceſſa<g ref="char:EOLhyphen"/>tion between him and <hi>Owen Roe;</hi> and whereas in his Letter he doth mention, That he had done it with advice with ſome others there, Mr. Speaker demanded of him, what perſons he intended thereby: To which Colonel <hi>Monk</hi> anſwered, That he did it upon his own ſcore, without the advice of any other perſon; onely having formerly had Diſcourſe with Colonel <hi>Jones,</hi> Colonel
+<pb n="4" facs="tcp:115854:3"/>
+               <hi>Jones</hi> told him, That if he the ſaid Colonel <hi>Monk</hi> could keep off <hi>Owen Roe</hi> and <hi>Ormond</hi> from joyning, it would be a good ſervice.</p>
+            <p>Being demanded by Mr. Speaker, Whether he had any advice or direction from the Parliament, or Councel of State, or Lord Lieutenant of <hi>Ireland,</hi> or any other perſon here to do the ſame; he did expreſly deny, That he had any advice or direction therein from the Lord Lieu<g ref="char:EOLhyphen"/>tenant of <hi>Ireland,</hi> or from the Councel of State, or from the Parliament, or any Member of either; but he did it onely on his own ſcore, conceiving it was for the preſer<g ref="char:EOLhyphen"/>vation of the Engliſh Intereſt there, and that they have had ſome fruits thereof accordingly.</p>
+            <p>Being withdrawn, and afterwards called in again, the queſtions demanded him by Mr. Speaker, and his anſwers thereunto, were read unto him; and the ſaid Colonel <hi>Monk</hi> did acknowledge, That the ſame are his anſwers to the ſaid queſtions.</p>
+            <p>REſolved, &amp;c. <hi>That this Houſe doth utterly diſapprove of the proceedings of Co<g ref="char:EOLhyphen"/>lonel</hi> Monk, <hi>in the Treaty and Ceſſation made between him and</hi> Owen Roe O Neal; <hi>And that the innocent Blood which hath been ſhed in</hi> Ireland, <hi>is ſo freſh in the memory of this Houſe, that this Houſe doth deteſt and abhor the thoughts of any cloſing with any party of Popiſh Rebels there, who have had their hands in ſhedding that blood.</hi>
+            </p>
+            <p>
+               <hi>Nevertheleſs, the Houſe being ſatisfied that
+<pb n="5" facs="tcp:115854:3"/>what the ſaid Colonel</hi> Monk <hi>did therein, was in his apprehenſion neceſſary for the preſer<g ref="char:EOLhyphen"/>vation of the Parliament of</hi> England <hi>Intereſt, That the Houſe is content the further conſi<g ref="char:EOLhyphen"/>deration thereof, as to him, be laid aſide, and ſhall not at any time hereafter be called in queſtion.</hi>
+            </p>
+            <p>Ordered, <hi>That it be referred to the Councel of State, to give Direction for printing the Report from the Councel of State, and ſo much of the Letters and Proceedings as con<g ref="char:EOLhyphen"/>cern this buſineſs, and the Votes of the Houſe thereupon.</hi>
+            </p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:115854:4"/>
+            <floatingText type="letter">
+               <body>
+                  <head>Colonel <hi>George Monks</hi> Letter to the Lord Lieutenant of <hi>Ireland.</hi>
+                  </head>
+                  <opener>
+                     <salute>Right Honorable,</salute>
+                  </opener>
+                  <p>SInce I received advertiſement of your reſolution of coming into this Kingdom, I have very much re<g ref="char:EOLhyphen"/>joyced, and withal do aſſure you, that you have no ſervant in the world more glad of it, then my ſelf; I am infinitely obliged to you for your many favors, for which I return you hearty thanks. I do account it a principal part of my duty, to give you account of af<g ref="char:EOLhyphen"/>fairs here in this ſervice: I have, ſince, the Scots de<g ref="char:EOLhyphen"/>ſerting me (although they are unwilling to own it) not<g ref="char:EOLhyphen"/>withſtanding their actions do fully manifeſt it, uſed my utmoſt endeavors to reſerve the intereſt of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in the North, and to keep ſome footing there. I have taken care to provide the Garriſon of <hi>Liſnegarvy,</hi> with two moneths proviſion of corn, which is kept there ſafe, if any rupture happen between, which is likely to be, ſince their ends are clear oppoſite: As al<g ref="char:EOLhyphen"/>ſo I have well furniſhed with victual the Garriſon of <hi>Derry,</hi> the onely paſs into the North, and <hi>Green Caſtle, Cartingford, Dundalk</hi> and <hi>Colerane,</hi> if my Forces ſhould advance to beſiege either of them. And being in a ve<g ref="char:EOLhyphen"/>ry ill condition with theſe Garriſons between the Scots and Iriſh, <hi>Owen mac Art</hi>'s Army, I have adven<g ref="char:EOLhyphen"/>tured, by the advice of ſome ſpecial friends and well-wiſhers to this Service, to treat with <hi>Owen mac Art,</hi> to keep him from joyning with <hi>Ormond,</hi> which if he had done, Colonel <hi>Jones</hi> and I had been in a very great ha<g ref="char:EOLhyphen"/>zard
+<pb n="7" facs="tcp:115854:4"/>of loſing the Parliaments footing in this King<g ref="char:EOLhyphen"/>dom; whereupon finding Colonel <hi>Jones</hi> in ſuch a con<g ref="char:EOLhyphen"/>dition, that he could not relieve me, it made me the more confident to adventure upon a Ceſſation of Arms between <hi>Owen mac Art</hi>'s Party and mine, he en<g ref="char:EOLhyphen"/>gaging himſelf to oppoſe <hi>Ormond,</hi> which he doth really intend to do, and hath already by his endeavors ma<g ref="char:EOLhyphen"/>nifeſted his willingneſs to ruine <hi>Ormond,</hi> for a greater feud cannot poſſibly be between them, then there is now: wherefore upon this ſcore I have treated with him, and according to his deſire, ſent you the Copy of the Propoſitions made by him, and according to his deſire ſent you the Copy of the Propoſitions made by him, to the Parliament, which are wonderful high, but I believe will deſcend much lower: I have ſent you likewiſe a Copy of Agreement for the three moneths Ceſſation betwixt <hi>Owen mac Art</hi> and I. I do not think it fit to ſignifie this to the Councel of State, but do wholly refer the buſineſs to you, either to make further uſe of it, or elſe to move it, or as you con<g ref="char:EOLhyphen"/>ceive moſt fit to be done, ſince there was great neceſ<g ref="char:EOLhyphen"/>ſity for me to do it, I hope it will beget no ill conſtru<g ref="char:EOLhyphen"/>ction, when the advantage gained to the Service, by dividing <hi>Ormond</hi> and <hi>Mac Art,</hi> is fully weighed.</p>
+                  <p>By this buſineſs I have very much quieted the Scots, who were upon ſo high terms, that nothing would ſatisfie them, but that I muſt deliver up the pro<g ref="char:EOLhyphen"/>viſions, Arms and Ammunition to them which I had in my Stores, as you may perceive by the Copies of their Letters at their meetings; but now they do not ſtir, either to ſend Forces to joyn with thoſe againſt <hi>Derry,</hi> or to advance towards me: wherefore being driven to this great ſtreight, I ſhall deſire that it may
+<pb n="8" facs="tcp:115854:5"/>not receive any ill cenſure, but that it may be through<g ref="char:EOLhyphen"/>ly conſidered.</p>
+                  <p>I doubt I have already treſpaſſed too much upon your time, and do therefore crave pardon for this bold<g ref="char:EOLhyphen"/>neſs, and humbly beſeech you to continue your good opinion towards me, and eſteem me, as I am</p>
+                  <closer>
+                     <dateline>
+                        <hi>Dundalk,</hi> 
+                        <date>this 25. of May 1649.</date>
+                     </dateline>
+                     <signed>Your faithful and moſt humble Servant, <hi>GEORGE MONK.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>Ormond <hi>within this three days hath taken a Garriſon of</hi> Owen mac Arts, <hi>and put moſt of the men to the ſword, the place called</hi> Mary-Burrow, <hi>and the hath ſent</hi> Preſton <hi>to lye before</hi> Athy, <hi>another of</hi> Owen mac Arts <hi>Garriſons.</hi>
+                     </p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <div type="part">
+               <head>Articles condeſcended unto, and agreed upon, by and between General <hi>Owen O Neal,</hi> Commander in chief of the confederate Catholiques, and Colonel <hi>George Monk,</hi> Commander in chief of the Par<g ref="char:EOLhyphen"/>liament Forces, within the Province of <hi>Ulſter.</hi> Dated <hi>8</hi> May, <hi>1649.</hi>
+               </head>
+               <p n="1">I. IT is agreed that there be a Ceſſation of Arms, and of all acts of Hoſtility, between the Forces and Parties commanded by, and adhering to General <hi>Owen O Neal,</hi> as well in <hi>Ulſter</hi> as in the reſt of the Provinces of the Kingdom, and the Forces or Parties under Co<g ref="char:EOLhyphen"/>lonel <hi>George Monk</hi> his command, for three moneths after the date hereof; Provided that in the ſaid time, there be not any agreement made with the Marqueſs
+<pb n="9" facs="tcp:115854:5"/>of <hi>Ormond,</hi> the Lord of <hi>Inchiqueen,</hi> or any their adhe<g ref="char:EOLhyphen"/>rents, or with any who are Enemies to the Parliament of <hi>England.</hi>
+               </p>
+               <p n="2">II. That upon all occaſions during the ſaid time, both Parties be ready with their Forces to aſſiſt one another, until a more abſolute agreement be made and condeſcended unto by the Parliament of <hi>England.</hi>
+               </p>
+               <p n="3">III. It is agreed between the ſaid Parties, that the Creaghts of <hi>Ulſter,</hi> reſiding within the quarters of Co<g ref="char:EOLhyphen"/>lonel <hi>Monk,</hi> pay contribution to General <hi>Owen O Neal;</hi> And that it may be likewiſe lawful for the ſaid Colo<g ref="char:EOLhyphen"/>nel <hi>Monk</hi> to receive contribution from ſuch Creaghts of <hi>Ulſter,</hi> as well thoſe who have not as yet paid him contribution, as thoſe that do; and in caſe any of them refuſe ſo to do, it ſhall be lawful for Colonel <hi>Monk</hi> to compel them thereunto, excepting thoſe who be<g ref="char:EOLhyphen"/>long to the County of <hi>Cavan.</hi>
+               </p>
+               <p n="4">IV. It is alſo agreed, That if General <hi>Owen O Neal</hi> ſhall happen to fight againſt the Forces under the com<g ref="char:EOLhyphen"/>mand of the Marqueſs of <hi>Ormond,</hi> the Lord <hi>Inchiqueen,</hi> or any other Enemies to the Parliament of <hi>England,</hi> and thereby ſpend his Ammunition, if he be near unto my Quarters, and be diſtreſſed for want of Ammuni<g ref="char:EOLhyphen"/>tion. I ſhall then furniſh him.</p>
+               <p n="5">V. It is agreed between the ſaid Parties, And the ſaid Colonel <hi>Monk</hi> doth in the behalf of himſelf and his Party, faithfully promiſe and undertake, that free leave and liberty ſhall be given to any Ship or Ships, that may arrive at any Harbor, or Port-Town within the ſaid Colonel <hi>Monk</hi>'s liberty, during the time of our Agreement, with any Silver, Gold, Proviſion, Arms, Ammunition, or any other commodities, to the uſe of the ſaid General or his Forces: And that the ſaid Ge<g ref="char:EOLhyphen"/>neral
+<pb n="10" facs="tcp:115854:6"/>
+                  <hi>O Neal,</hi> or ſuch as ſhall be by him authorized hereunto, ſhall be admitted to fetch away the ſame with ſecurity and ſafety; and that no interruption or impediment be given to the ſaid ſhipping, to depart without any prejudice, at their will and pleaſure.</p>
+            </div>
+            <div type="part">
+               <head>The Propoſitions of General <hi>Owen O Neal,</hi> the Lords, Gentry and Commons of the confederate Ca<g ref="char:EOLhyphen"/>tholiques of <hi>Ulſter,</hi> to the moſt High and moſt Ho<g ref="char:EOLhyphen"/>norable, the <hi>PARLIAMENT</hi> of <hi>England.</hi>
+               </head>
+               <p n="1">I. <hi>IMprimis,</hi> That ſuch as are already joyned, or ſhall within the ſpace of three moneths, joyn with General <hi>Owen O Neal,</hi> in the ſervice of the Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> in this Kingdom, as well Clergy as others, may have all laws and penalties againſt their Religion and its Profeſſors, taken off by Act of Parlia<g ref="char:EOLhyphen"/>ment, and that Act to extend to the ſaid Parties, their Heirs and Succeſſors for ever, while they loyally ſerve the Parliament of <hi>England.</hi>
+               </p>
+               <p n="2">II. The ſaid General <hi>O Neal</hi> deſireth an Act of ob<g ref="char:EOLhyphen"/>livion to be paſſed, to extend to all and every of his party, for all things done ſince the beginning of the year 1641.</p>
+               <p n="3">III. They deſire that General <hi>Owen O Neal,</hi> be provided with a competent command in the Army, be<g ref="char:EOLhyphen"/>fitting his worth and quality.</p>
+               <p n="4">IV. They deſire that they may enjoy all the Lands that were, or ought to be in their or their Anceſtors poſſeſſion.</p>
+               <p n="5">V. That all incapacity, inability and diſtruſt hither<g ref="char:EOLhyphen"/>to,
+<pb n="11" facs="tcp:115854:6"/>by Act of State or otherwiſe, againſt the ſaid party, be taken off.</p>
+               <p n="6">VI. That on both ſides all jealouſies, hate and a<g ref="char:EOLhyphen"/>verſion, be laid aſide, unity, love and amity, be re<g ref="char:EOLhyphen"/>newed and practiſed between both parties.</p>
+               <p n="7">VII. That General <hi>Owen O Neal</hi> may be reſtored and put in poſſeſſion of his Succeſſors eſtates, or ſome eſtates equivalent to it, in the Counties of <hi>Tyrome, Ard<g ref="char:EOLhyphen"/>mach,</hi> or <hi>London-dery,</hi> in reward of his merit, and the good ſervice that he ſhall perform in the Parliament of <hi>Englands</hi> ſervice, in the preſervation of their intereſt in this Kingdom.</p>
+               <p n="8">VIII. That the Army belonging to General <hi>Ow<g ref="char:EOLhyphen"/>en O Neal</hi> and his party, be provided for, in all points as the reſt of the Army ſhall be.</p>
+               <p n="9">IX. That the ſaid party be provided with, and poſ<g ref="char:EOLhyphen"/>ſeſſed of a convenient Sea port in the Province of <hi>Ulſter.</hi>
+               </p>
+               <p>I do, upon receiving a confirmation of theſe Propo<g ref="char:EOLhyphen"/>ſitions, forthwith undertake and promiſe in behalf of my ſelf, and the whole Party under my command, faithfully and firmly to adhere to the ſervice of the Parliament of <hi>England</hi> in this Kingdom, and main<g ref="char:EOLhyphen"/>tain their intereſt hereafter, with the hazard of our lives and fortunes, againſt all oppoſers whatſoever. In wit<g ref="char:EOLhyphen"/>neſs whereof, I have hereunto put my hand and ſeal, this 8 day of May, <hi>Anno Dom.</hi> 1649.</p>
+               <closer>
+                  <signed>Signed, <hi>Owen O Neal.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:115854:7"/>
+               <head>The REASONS inducing Colonel <hi>Monk to</hi> make a Ceſſation with <hi>Owen Roe O Neal</hi> for three Moneths, which is now expired, were as followeth:</head>
+               <list>
+                  <item>1. THat about <hi>April</hi> laſt, the Scots under his com<g ref="char:EOLhyphen"/>mand having relinquiſhed their obedience to the Parliament, and denied to obey any command from him, upon refuſing to joyn with them in a De<g ref="char:EOLhyphen"/>claration againſt the Parliament and Army, he deſired aſſiſtance from Colonel <hi>Jones</hi> to reduce them to obe<g ref="char:EOLhyphen"/>dience: But Colonel <hi>Jones</hi> finding by good Intelli<g ref="char:EOLhyphen"/>gence, that the Lord of <hi>Ormond</hi> had made a Peace with all the Iriſh, except <hi>Owen Roe O Neal;</hi> That he had ſet up the Princes Intereſt, and upon that ſcore was raiſing all the force he could make to diſtreſs Colonel <hi>Jones</hi> in his quarters, thought it not ſafe, as to the Par<g ref="char:EOLhyphen"/>liaments Intereſt in <hi>Lemſter,</hi> to ſpare any aſſiſtance to Colonel <hi>Monk.</hi>
+                  </item>
+                  <item>2. That Colonel <hi>Monk</hi> being upon this neceſſitated to retire to his Gariſon of <hi>Dundalk,</hi> found <hi>Owen Roe O Neal</hi> quartered with his Forces, being Six thouſand Foot, and about Seven hundred horſe, in the counties of <hi>Cavan</hi> and <hi>Monahan,</hi> within twenty or thirty miles march of his Garriſon; and alſo received good In<g ref="char:EOLhyphen"/>telligence, that the Lord of <hi>Ormond</hi> at that time uſed all poſſible means to draw <hi>Owen Roe</hi> to his party, offering him any Conditions to induce to it.</item>
+                  <item>3. That Colonel <hi>Monk</hi> finding himſelf thus inviron<g ref="char:EOLhyphen"/>ed with the Scots on the one hand, with whom he underſtood the Lord of <hi>Ormond</hi> kept Intelligence at
+<pb n="13" facs="tcp:115854:7"/>that time, and with <hi>Owen Roe</hi> on the other; and find<g ref="char:EOLhyphen"/>ing how dangerous it would in all probability be, not onely to himſelf, but alſo to Colonel <hi>Jones,</hi> and ſo conſequently to all the Parliaments Intereſt in <hi>Ireland,</hi> to have <hi>Owen Roe</hi> and the Scots thus upon the ſudden, and before any Forces could be expected to arrive out of <hi>England,</hi> either to Colonel <hi>Jones</hi> or his own relief, united with the Lord of <hi>Ormond.</hi>
+                  </item>
+                  <item>4. Finding that if he could keep the Lord of <hi>Ormond</hi> and <hi>Owen Roe</hi> at diſtance, until ſupplies arrived, he ſhould not onely deprive the Lord of <hi>Ormond</hi> of that acceſſion of ſtrength which <hi>Owen Roe</hi>'s Forces would have added unto him, but alſo render the Scots in <hi>Ulſter,</hi> and the Earl of <hi>Clanrickard</hi> with his <hi>Connaght</hi> Forces (all which being joyned together, would have made Twelve thouſand horſe and foot) uſeleſs to the Lord of <hi>Ormond,</hi> as to any aſſiſtance he could expect from them to joyn with him againſt Colonel <hi>Jones, Owen Roe</hi> lying ſo with his Forces, as that he might within two or three days march, have fallen either in<g ref="char:EOLhyphen"/>to the Scots quarters, or <hi>Clanrickards</hi> quarters, if they had not kept their Forces to attend his motions.</item>
+                  <item>5. Finding alſo that <hi>Owen Roe,</hi> in regard of his own ſafety, would accept the large Offers made him by the Earl of <hi>Ormond,</hi> if he had not been ſpeedily prevent<g ref="char:EOLhyphen"/>ed; Colonel <hi>Monk</hi> well weighing all the dangers and advantages as aforeſaid, that might in all probability inſue thereupon; and likewiſe what hazard it might have been to retard a concluſion with <hi>Owen Roe</hi> (whom he found impatient of all Delays) until he might re<g ref="char:EOLhyphen"/>ceive Directions either from the Councel of State or the Parliament, for his farther proceeding therein, thought it moſt agreeable to the diſcharge of his truſt,
+<pb n="14" facs="tcp:115854:8"/>and the ſafety of the Parliaments Intereſt in that Kingdom, rather to caſt himſelf upon the Parliaments favorable interpretation, and to conclude a Ceſſation with <hi>Owen Roe</hi> for three moneths, then by any further delay, to loſe the advantages aforeſaid, the fruits whereof have in ſome meaſure anſwered his expecta<g ref="char:EOLhyphen"/>tion, and prevented the Earl of <hi>Ormond</hi> all this while from a ſtrict beſieging of <hi>Dublin,</hi> and ſo conſequently of taking it, for want of a competent number of foot to lie down before it, which he could not have done, without the addition of the Scots and <hi>Connaght</hi> forces as aforeſaid; and in the mean time neceſſitated him to ſpend his time in taking of the out-Gariſons, which if <hi>Dublin</hi> had been taken, he knew would have ſpeedily fallen into his hands. The truth of all which, and of the advantages gained by his proceedings, he ſub<g ref="char:EOLhyphen"/>mits to the further teſtimony of thoſe that Command in chief for the Parliament upon the place.</item>
+               </list>
+            </div>
+            <div type="letter">
+               <pb n="15" facs="tcp:115854:8"/>
+               <head>A Letter of the Scottiſh Officers in <hi>Ulſter,</hi> to <hi>Colonel MONK.</hi>
+               </head>
+               <opener>
+                  <salute>Honorable Sir,</salute>
+               </opener>
+               <p>VVE are very well ſatisfied in our own conſciences, and are confident all, except the parties againſt whom we do declare, will be ſo, That we have diſcharged our duties in rela<g ref="char:EOLhyphen"/>tion to you, and that we have with a great deal of honeſty &amp; fide<g ref="char:EOLhyphen"/>lity, declared our ſelves for the Parliament of <hi>England,</hi> And one<g ref="char:EOLhyphen"/>ly againſt thoſe who have illegally uſurped their power, for whoſe ſervice we are confident the Arms, Ammunition and Clothes ſent to the Army, were never ordained; nor can we ſee how you diſcharge your truſt to the Parliament, when you detain thoſe proviſions ſent by them to us, who are ſtill willing cordially to proſecute thoſe ends to which we were engaged, when you got your Commiſſion, and to follow the commands of that lawful Power which did give it you. Thus far we are free, becauſe we cannot lie under the accuſation of that crime, whereof others are guilty, &amp;c.</p>
+               <p>Major <hi>Rawden</hi> will give you an accompt of our Anſwers to your deſires, which we are confident will witneſs our reſpects to you, and we do earneſtly deſire that you may be as careful in preſerving a good correſpondency and neighbor-hood, as</p>
+               <closer>
+                  <dateline>
+                     <hi>Belfaſt,</hi> 
+                     <date>
+                        <hi>the</hi> 9. <hi>of May,</hi> 1649.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your affectionate humble Servants.</hi> Signed:
+<list>
+                        <item>
+                           <hi>Montgomery, John Edmonſtone,</hi>
+                        </item>
+                        <item>
+                           <hi>Uti Knox, William Hamilton,</hi>
+                        </item>
+                        <item>
+                           <hi>George Kieth, James Clotworthy,</hi>
+                        </item>
+                        <item>
+                           <hi>James Shaw, Fergus Kennedy,</hi>
+                        </item>
+                        <item>
+                           <hi>Ed: Ellis.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
